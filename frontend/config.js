@@ -1,2 +1,2 @@
 export const API_BASE_URL =
-  process.env.EXPO_PUBLIC_API_BASE_URL || "https://YOUR-API-URL.onrender.com";
+"https://zinat-al-khalij-api.onrender.com";
