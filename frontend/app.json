@@ -1,0 +1,17 @@
+{
+  "expo": {
+    "name": "زينة الخليج",
+    "slug": "zinat-al-khalij",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "light",
+    "android": {
+      "package": "com.zinatal.khalij.salon",
+      "versionCode": 1
+    },
+    "ios": {
+      "bundleIdentifier": "com.zinatal.khalij.salon",
+      "buildNumber": "1"
+    }
+  }
+}
