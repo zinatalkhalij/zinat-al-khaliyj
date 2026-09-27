@@ -2,6 +2,7 @@ services:
   - type: web
     name: zinat-al-khalij-api
     runtime: node
+    plan: free
     rootDir: backend
     buildCommand: npm install
     startCommand: npm start
@@ -15,3 +16,4 @@ services:
 
 databases:
   - name: zinat-al-khalij-db
+  plan: free
