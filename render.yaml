@@ -16,4 +16,4 @@ services:
 
 databases:
   - name: zinat-al-khalij-db
-  plan: free
+    plan: free
